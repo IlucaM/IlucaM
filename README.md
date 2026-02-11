@@ -87,12 +87,12 @@ Architecting and managing cloud-native solutions on AWS with containerization an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlucaM&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlucaM&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlucaM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlucaM&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlucaM&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlucaM&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
